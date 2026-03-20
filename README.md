@@ -67,6 +67,3 @@ If you find this survey or the experimental scaffolding useful for your research
   year={2026}
 }
 ```
-
-## Contact
-For questions regarding the manuscript or the experimental pipeline, please contact **Shan Jiang** at Curtin University.
